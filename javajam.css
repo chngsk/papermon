@@ -12,7 +12,7 @@ header,nav,main,footer{
 }
 
 #heromugs {
-    background-image: url('images/heromugs.jpg');
+    background-image: url('heromugs.jpg');
     background-size: 100% 100%;
     height: 250px;
 }
